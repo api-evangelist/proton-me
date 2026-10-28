@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Proton Drive is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://proton.me/
+Proton Drive is a secure cloud storage service offered by Proton, a privacy‑focused technology company. It provides encrypted file storage, sharing, and collaboration tools, integrating with Proton’s suite of services such as Mail, VPN, Calendar, and Pass. The platform emphasizes end‑to‑end encryption, zero‑access architecture, and user‑controlled data, targeting both personal and business users who require strong privacy guarantees for their documents and media.
+
+**Areas:** Company · Cloud Storage · Privacy · Encryption · File Sharing · Secure Collaboration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://proton.me/)
+- [Documentation](https://proton.me/drive/docs)
+- [Pricing](https://proton.me/pricing)
+- [Sign up](https://proton.me/signup)
+- [Support](https://proton.me/support)
+- [Blog](https://proton.me/blog)
+- [Security](https://proton.me/mail/security)
+- [Trust centre](https://proton.me/business/trust)
+- [Terms of service](https://proton.me/legal/terms)
+- [Privacy policy](https://proton.me/privacy)
+- [GitHub](https://github.com/ProtonMail)
+- [Status](https://status.proton.me/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/proton-me/](https://apis.io/providers/proton-me/).
